@@ -45,6 +45,8 @@ class InstagramVerification:
 
 # User's Instagram details
 my_instagram = InstagramVerification("mr_harikrishnan_nair")
+my_instagram = InstagramVerification("shelvykira")
+my_instagram.apply_for_verification()
 my_instagram.apply_for_verification()
 
 # Function to show the blue tick code
