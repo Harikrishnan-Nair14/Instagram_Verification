@@ -44,7 +44,7 @@ class InstagramVerification:
             print(f"Verification for {self.username} failed after {self.verification_attempts} attempts.")
 
 # User's Instagram details
-my_instagram = InstagramVerification("mr_harikrishnan_nair")
+my_instagram = InstagramVerification("shelvykira")
 my_instagram.apply_for_verification()
 
 # Function to show the blue tick code
